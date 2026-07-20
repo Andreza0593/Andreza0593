@@ -49,6 +49,11 @@ Tenho grande facilidade de adaptação a diferentes contextos de squad, forte co
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<br>
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
@@ -58,5 +63,5 @@ Tenho grande facilidade de adaptação a diferentes contextos de squad, forte co
 
 ## 🧠 Habilidades
 
-*   **Hard Skills:** Automação de Testes Web & API, Testes de Regressão e Aceitação, Modelagem de Casos de Teste, BDD (Behavior-Driven Development), Pipelines de CI/CD, Bancos de Dados (SQL/MongoDB), Mensageria (RabbitMQ), Gestão de Bugs (Jira/Azure DevOps), Ambiente Linux.
-*   **Soft Skills:** Pensamento Analítico, Resolução de Problemas, Comunicação Assertiva entre Times Técnicos e de Negócio, Trabalho em Equipe, Adaptabilidade e Proatividade em Melhoria de Processos.ssertiva (Tech/Business), Trabalho em Equipe, Adaptabilidade e Foco em Processos.
+*   **Hard Skills:** Automação de Testes Web & API, Testes de Regressão e Aceitação, Modelagem de Casos de Teste, BDD (Behavior-Driven Development), Pipelines de CI/CD, Bancos de Dados (SQL/MongoDB), Mensageria (RabbitMQ), Ambientes de Desenvolvimento (VSCode/IntelliJ), Gestão de Bugs e Projetos (Jira/Azure DevOps/Trello/Notion), Ambiente Linux.
+*   **Soft Skills:** Pensamento Analítico, Resolução de Problemas, Comunicação Assertiva entre Times Técnicos e de Negócio, Trabalho em Equipe, Adaptabilidade e Proatividade em Melhoria de Processos.
