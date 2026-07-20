@@ -16,14 +16,6 @@ Tenho grande facilidade de adaptação a diferentes contextos de squad, forte co
 
 ---
 
-## 📊 Histórico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreza0593&theme=github-compact" alt="Gráfico de Atividade" width="100%" />
-</div>
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
