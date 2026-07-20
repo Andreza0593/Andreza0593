@@ -2,7 +2,7 @@
 
 Com uma bagagem de 13 anos na área comercial, realizei minha transição para a tecnologia e, nos últimos 3 anos, atuei como QA em múltiplos times e projetos. Sou focada em garantir entregas de software com alto padrão de qualidade através da melhoria contínua de processos e da automação de testes.
 
-Tenho grande facilidade de adaptação a diferentes contextos de squad, forte colaboração com equipes de engenharia e foco constante na evolução técnica e organizacional do time.
+Tenho grande facilidade de adaptação a diferentes contextos de squad, forte colaboração com equipes e foco constante na evolução técnica e organizacional do time.
 
 - 🔭 **Foco atual:** Automação de testes Web e API, arquiteturas modernas de testes e projetos pessoais.
 - ⚙️ **Metodologia:** Vivência integrada em squads ágeis (Scrum/Kanban) e cultura DevOps.
