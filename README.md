@@ -62,23 +62,6 @@ Tenho grande facilidade de adaptação a diferentes contextos de squad, forte co
 
 ---
 
-## 🎓 Formação Acadêmica & Bootcamps
-
-### **Educação Formal**
-*   **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** - *Universidade Estácio de Sá*
-
-### **Especializações & Bootcamps**
-*   **Playwright além da interface** - *Fernando Papito*
-*   **Testando API REST com MongoDB e RabbitMQ em Cypress** - *Fernando Papito*
-*   **Bootcamp: Automação de API e WEB com Cypress** - *Qazando*
-*   **Bootcamp: DevOps criando pipelines** - *Qazando*
-*   **Projeto de Automação WEB** - *Chronos Academy*
-*   **Quality Assurance Academy** - *QA Coders Academy*
-*   **Bootcamp: GFT Quality Assurance para Mulheres** - *DIO (Digital Innovation One)*
-*   **Formação Quality Assurance** - *EBAC*
-
----
-
 ## 🧠 Habilidades
 
 *   **Hard Skills:** Automação de Testes Web & API, Testes de Regressão e Aceitação, Modelagem de Casos de Teste, BDD (Behavior-Driven Development), Pipelines de CI/CD, Bancos de Dados (SQL/MongoDB), Mensageria (RabbitMQ), Gestão de Bugs (Jira/Azure DevOps), Ambiente Linux.
